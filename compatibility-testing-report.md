@@ -4,7 +4,7 @@
 Basic Web Page Compatibility Testing
 
 ## Website Tested
-https://demowebshop.tricentis.com/
+https://shoplane-by-lassie.netlify.app/
 
 ---
 
@@ -55,3 +55,4 @@ https://demowebshop.tricentis.com/
 ## Conclusion
 
 The website is mostly compatible across browsers and devices with minor UI issues.
+
