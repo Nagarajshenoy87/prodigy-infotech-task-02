@@ -38,17 +38,14 @@ https://shoplane-by-lassie.netlify.app/
 
 ## Issues Found
 
-1.## Broken Links
-
+## Broken Links
 When clicking the navigation menu items "Clothing" and "Accessories", the website displays a "Page not found" (404 error) message.
-
 This indicates that the links are pointing to pages that do not exist or are not properly configured.
 
 Recommendation:
 Create valid pages for the navigation links or update the routing paths to ensure the links direct to the correct sections. 
 
-2.## Functionality Issues
-
+## Functionality Issues
 Search Bar Issue:
 The search bar is visible on the homepage; however, entering a query and pressing the search button does not produce any results.
 
@@ -58,7 +55,7 @@ The search functionality appears to be non-functional and may not have been impl
 Recommendation:
 Implement JavaScript-based search functionality to filter and display products based on user input.
 
-3.Minor Issue:
+## Minor Issue:
 On smaller mobile screens, product images appear slightly large which may require responsive image optimization.
 
 ---
@@ -75,6 +72,7 @@ On smaller mobile screens, product images appear slightly large which may requir
 ## Conclusion
 
 The website is mostly compatible across browsers and devices with minor UI issues.
+
 
 
 
