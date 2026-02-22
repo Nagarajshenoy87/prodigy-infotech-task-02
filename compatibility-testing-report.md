@@ -58,6 +58,8 @@ Implement JavaScript-based search functionality to filter and display products b
 ## Minor Issue:
 On smaller mobile screens, product images appear slightly large which may require responsive image optimization.
 
+## Screenshots for the same is uploaded.
+
 ---
 
 ## Recommended Fixes
@@ -72,6 +74,7 @@ On smaller mobile screens, product images appear slightly large which may requir
 ## Conclusion
 
 The website is mostly compatible across browsers and devices with minor UI issues.
+
 
 
 
