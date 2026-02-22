@@ -32,6 +32,6 @@ https://shoplane-by-lassie.netlify.app/
 The website works properly across browsers with minor responsive issues.
 
 ## Author
-Your Name
+Nagaraj Shenoy S
 Software Testing Intern
 Prodigy Infotech
