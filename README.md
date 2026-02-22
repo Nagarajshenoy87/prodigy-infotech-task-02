@@ -5,7 +5,7 @@
 This project involves testing a demo e-commerce website across different browsers and devices.
 
 ## Website Tested
-https://demowebshop.tricentis.com/
+https://shoplane-by-lassie.netlify.app/
 
 ## Browsers Tested
 - Chrome
